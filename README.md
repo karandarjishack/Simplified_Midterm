@@ -37,6 +37,6 @@ Conducted thorough testing to verify the robustness and reliability of the syste
 
 **Conclusion:**
 
-This project successfully deployed a machine learning model for malware classification as an API endpoint on AWS SageMaker. Testing with real-world samples demonstrated the effectiveness and practicality of the solution.
+This project successfully demonstrated the deployment of a pre-trained malware classification model as a cloud-based API endpoint on AWS SageMaker. The rest of the part haven’t been executed but will be uploaded and documentation will be updated for the same soon for the last part.
 
 
