@@ -22,14 +22,8 @@ Ensured monitoring of spending on AWS.
 **Developing the Python Client:**
 
 Developed a Python client to interact with the deployed SageMaker endpoint.
-The client extracted relevant features from executable files using techniques learned during Lab 5.4.
 Integrated functionality to send feature vectors to the SageMaker endpoint and retrieve classification results.
 
-
-**Testing and Demonstration:**
-
-Tested the Python client and SageMaker endpoint using one malware PE file and one benign PE file.
-Demonstrated the functionality of the client and endpoint in a video demo.
 
 
 **Performance Analysis:**
