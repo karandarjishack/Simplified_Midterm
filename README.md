@@ -1,3 +1,5 @@
+**Youtube:** https://youtu.be/2HlF7h_7xbw
+
 **Overview:**
 
 The aim of this project was to deploy a machine learning model trained for malware classification as an API endpoint on AWS SageMaker. Additionally, a Python client was developed to extract features from executable files and retrieve classification results from the SageMaker endpoint. Testing of the client and endpoint was performed using one malware PE file and one benign PE file from the test dataset created during Lab 5.4.
