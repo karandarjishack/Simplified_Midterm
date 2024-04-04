@@ -40,3 +40,17 @@ Conducted thorough testing to verify the robustness and reliability of the syste
 This project successfully demonstrated the deployment of a pre-trained malware classification model as a cloud-based API endpoint on AWS SageMaker. The rest of the part haven’t been executed but will be uploaded and documentation will be updated for the same soon for the last part.
 
 
+**References:**
+
+
+AWS SageMaker Documentation: https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model.html
+
+Introduction to Amazon SageMaker: https://youtu.be/YcJAc-x8XLQ
+
+
+Getting Started with Amazon SageMaker: https://sagemakerexamples.readthedocs.io/en/latest/intro.html
+
+PyTorch in SageMaker: https://docs.aws.amazon.com/sagemaker/latest/dg/pytorch.html
+
+
+
