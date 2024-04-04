@@ -41,6 +41,6 @@ Conducted thorough testing to verify the robustness and reliability of the syste
 
 **Conclusion:**
 
-This project successfully deployed a machine learning model for malware classification as an API endpoint on AWS SageMaker. By developing a Python client, the endpoint's functionality was extended to accept executable files, extract features, and provide classification results. Testing with real-world samples demonstrated the effectiveness and practicality of the solution.
+This project successfully deployed a machine learning model for malware classification as an API endpoint on AWS SageMaker. Testing with real-world samples demonstrated the effectiveness and practicality of the solution.
 
 
