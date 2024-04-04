@@ -6,7 +6,9 @@ The aim of this project was to deploy a machine learning model trained for malwa
 
 **Project Goals:**
 Deploy a pre-trained malware classification model on AWS SageMaker.
+
 Develop a Python client application to interact with the deployed model.
+
 Demonstrate the system's functionality using test data.
 
 
